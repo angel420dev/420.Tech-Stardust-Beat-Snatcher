@@ -4,6 +4,8 @@
 
 **Created by**: Adeline (angel420dev)
 
+<img width="1366" height="768" alt="Screenshot from 2025-07-26 23-56-41" src="https://github.com/user-attachments/assets/60c50de7-07e9-43ad-9fe3-2269531018b8" />
+
 ## REQUIREMENTS
 
 - **Python 3.x+**
@@ -14,6 +16,7 @@
 1. **Install dependencies** via `apt`:
     ```bash
     sudo apt update
+
     sudo apt install python3 python3-pip ffmpeg
     ```
 2. **Install `yt-dlp`** using pip:
