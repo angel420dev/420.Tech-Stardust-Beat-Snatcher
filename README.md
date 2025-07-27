@@ -59,7 +59,6 @@ python3 stardust_beatsnatcher.py
 ```
 
 ## NOTES
-- If you need Spotify support, you can use spotdl, which will search for the track on YouTube and download it.
 
 - To avoid issues with yt-dlp or spotdl, make sure ffmpeg is installed and added to your PATH (as it’s used for audio conversion).
 
