@@ -53,10 +53,12 @@ To run the program, navigate to the folder where the project is saved and execut
 
 ```bash
 python3 stardust_beatsnatcher.py
+```
 
-NOTES
-If you need Spotify support, you can use spotdl, which will search for the track on YouTube and download it.
+## NOTES
+- If you need Spotify support, you can use spotdl, which will search for the track on YouTube and download it.
 
-To avoid issues with yt-dlp or spotdl, make sure ffmpeg is installed and added to your PATH (as it’s used for audio conversion).
+- To avoid issues with yt-dlp or spotdl, make sure ffmpeg is installed and added to your PATH (as it’s used for audio conversion).
 
-If you encounter any issues or have questions, feel free to open an issue in this repository or contact me directly through Discord (angel420.dev).
+- If you encounter any issues or have questions, feel free to open an issue in this repository or contact me directly through Discord (angel420.dev).
+
