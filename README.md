@@ -1,10 +1,10 @@
-# Stardust BeatSnatcher 🎵🌌
+# Stardust Vortex v1.1🌌
 
-**Stardust BeatSnatcher** is a multi-tool music downloader that lets you download music from YouTube, SoundCloud, and Spotify (via a workaround). It saves your downloaded music directly to your **Music folder** so you can enjoy it offline!
+**Stardust Vortex** is a multi-tool music AND video downloader that lets you download from YouTube, SoundCloud, and Spotify (via a workaround). It saves your downloaded music AND videos directly to your **Music/Videos folder** so you can enjoy it offline!
 
-**Created by**: Adeline (angel420dev)
+**Created by**: Adeline (angel420dev) & 420 Tech
 
-<img width="1366" height="768" alt="Screenshot from 2025-07-26 23-56-41" src="https://github.com/user-attachments/assets/60c50de7-07e9-43ad-9fe3-2269531018b8" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/06d0b5f6-ce8d-46bf-9f62-2cc35a817a26" />
 
 ## REQUIREMENTS
 
@@ -55,7 +55,7 @@
 To run the program, navigate to the folder where the project is saved and execute the script:
 
 ```bash
-python3 stardust_beatsnatcher.py
+python3 Stardust Vortex.py
 ```
 
 ## NOTES
