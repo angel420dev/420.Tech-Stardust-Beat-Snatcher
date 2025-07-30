@@ -2,7 +2,7 @@
 
 **Stardust Vortex** is a multi-tool music AND video downloader that lets you download from YouTube, SoundCloud, and Spotify (via a workaround). It saves your downloaded music AND videos directly to your **Music/Videos folder** so you can enjoy it offline!
 
-**Created by**: Adeline (angel420dev) & 420 Tech
+**Created by**: @angel420dev & @420XECUTE
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/06d0b5f6-ce8d-46bf-9f62-2cc35a817a26" />
 
